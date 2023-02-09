@@ -1,7 +1,7 @@
 
 # this is the repo for BCI Competition of 2022
 
-### deep leanring model: EEGnet
+### deep leanring model: CNN Model(self-designed) & EEGnet
 
 ## usage:
 
